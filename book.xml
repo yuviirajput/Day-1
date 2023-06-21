@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<bookstore>
+<book>
+<name>Web 0</name>
+<author>Krunal trivedi</author>
+<price>100</price>
+<publicsh>2004</publicsh>
+</book>
+<book>
+<name>Web 1</name>
+<author>Krunal trivedi
+</author>
+<price>200</price>
+<publicsh>2005</publicsh>
+</book>
+<book>
+<name>Web 2</name>
+<author>Krunal trivedi</author>
+<price>300</price>
+<publicsh>2006</publicsh>
+</book>
+<book>
+<name>Web 3</name>
+<author>Krunal trivedi</author>
+<price>400</price>
+<publicsh>2007</publicsh>
+</book>
+</bookstore>
